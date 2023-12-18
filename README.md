@@ -1,7 +1,7 @@
-# UNIVERSIDAD PRIVADA DE TACNA[espacio][espacio]
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F205879%2Funiversidad-privada-de-tacna&psig=AOvVaw3tXGrDMb1cmdOrrVJ_ffpC&ust=1703020734109000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjV8OH0mYMDFQAAAAAdAAAAABAD)
-## Escuela Profesional de Ingenieria de Sistemas[espacio][espacio]
-## "Implementacion de una Pagina Web Ecoomerce para la empresa de Autopartes "V & V""[espacio][espacio]
+# UNIVERSIDAD PRIVADA DE TACNA
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmentor.pe%2Funiversidad-privada-de-tacna-upt%2F&psig=AOvVaw3tXGrDMb1cmdOrrVJ_ffpC&ust=1703020734109000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjV8OH0mYMDFQAAAAAdAAAAABAH)
+## Escuela Profesional de Ingenieria de Sistemas
+## "Implementacion de una Pagina Web Ecoomerce para la empresa de Autopartes "V & V""
 ### Curso: "PROGRAMACION WEB-I"
 ### Docente: Ing. Tito Ale Nieto
 ### Alumnos
