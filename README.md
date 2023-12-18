@@ -1,5 +1,5 @@
 # UNIVERSIDAD PRIVADA DE TACNA
-![logo](https://mentor.pe/wp-content/uploads/2023/09/UPT-logo-1024x1024.png)
+<img src="https://mentor.pe/wp-content/uploads/2023/09/UPT-logo-1024x1024.png" width="50%">
 ## Escuela Profesional de Ingenieria de Sistemas
 ## "Implementacion de una Pagina Web Ecoomerce para la empresa de Autopartes "V & V""
 ### Curso: "PROGRAMACION WEB-I"
